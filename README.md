@@ -5,11 +5,19 @@ https://cad.onshape.com/documents/3f9110356f41e6776f25925a/w/263c22464186373e995
 
 CNC machine, laser plotter.
 
-## pictures
+## Electronics, software:
+    makerbase mks dlc 2.1 --> grbl
+    raspberryPI 3A+ --> raspbianLite, CNCjs
 
-<img src="pics/1.jpg" width="75%" height="75%">
+## Video
+
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=thAOZv2FpFc/0.jpg)](https://www.youtube.com/watch?v=thAOZv2FpFc "Video Title")
+
+
+## Pictures
+<img src="pics/6.jpg" width="75%" height="75%">
 <img src="pics/2.jpg" width="75%" height="75%">
 <img src="pics/3.jpg" width="75%" height="75%">
 <img src="pics/4.jpg" width="75%" height="75%">
 <img src="pics/5.jpg" width="75%" height="75%">
-<img src="pics/6.jpg" width="75%" height="75%">
+<img src="pics/1.jpg" width="75%" height="75%">
