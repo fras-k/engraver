@@ -16,6 +16,7 @@ CNC machine, laser plotter.
 
 
 ## Pictures
+<img src="pics/7.jpg" width="75%" height="75%">
 <img src="pics/6.jpg" width="75%" height="75%">
 <img src="pics/2.jpg" width="75%" height="75%">
 <img src="pics/3.jpg" width="75%" height="75%">
